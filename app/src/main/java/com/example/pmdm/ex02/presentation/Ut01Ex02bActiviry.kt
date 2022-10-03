@@ -8,5 +8,6 @@ class Ut01Ex02bActiviry : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_ut01_ex02b_activiry)
+        //second exercise
     }
 }
