@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PMDM</string>
+    <string name="date">13/08/2002</string>
+    <string name="title">Ejercicio de clase</string>
+    <string name="cont">Esto es una imagen y al lado tiene una fecha y contenido</string>
+    <string name="title1">Espaguetis</string>
+    <string name="description">Espaguetis con salsa de tomate, perejil, ración de pan y botella de agua de 1,5 litros</string>
+</resources>
